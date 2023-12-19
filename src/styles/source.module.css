@@ -1,0 +1,23 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    min-height: 100vh;
+}
+
+.summary {
+    font-size: larger;
+}
+
+.timestamp {
+    font-size: smaller;
+}
+
+.picture {
+    width: 20rem;
+    height: auto;
+    border-radius: .2rem;
+    margin-bottom: 1rem;
+}
